@@ -8,7 +8,7 @@ import javax.swing.*;
 //we need the applet methods and the MouseMotionListener interface
 //(used for the human controlled paddle)
 
-public class snakeMain extends Applet implements KeyListener, 
+public class SnakeMain extends Applet implements KeyListener, 
 ActionListener
 {
 	private static final long serialVersionUID = 1L;
